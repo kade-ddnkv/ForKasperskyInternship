@@ -35,7 +35,7 @@ scan_util.exe = ...\ScanUtil_ForKasperskyInternship\ScanUtil_ForKasperskyInterns
 ---
 
 ## Примечания по решению:
-Использованные NuGet-пакеты:
+**Использовались NuGet-пакеты:**
 - Newtonsoft.Json - в scan_util
 - Swashbuckle.AspNetCore - в scan_service
 
