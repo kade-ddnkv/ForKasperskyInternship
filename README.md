@@ -28,7 +28,7 @@
 
 [Пример](https://imgur.com/a/27P5FkZ)
 
-Место хранения программ версии release:  
+Место хранения программ версии release (по крайней мере при использовании VisualStudio):  
 scan_service.exe = ...\ScanService_ForKasperskyInternship\ScanService_ForKasperskyInternship\bin\Release\net5.0\ScanService_ForKasperskyInternship.exe  
 scan_util.exe = ...\ScanUtil_ForKasperskyInternship\ScanUtil_ForKasperskyInternship\bin\Release\net5.0\ScanUtil_ForKasperskyInternship.exe
 
