@@ -1,5 +1,7 @@
 # ForKasperskyInternship
 
+[ссылка_на_тз](https://drive.google.com/file/d/1pBc_mRXTsE-OOpGEeA0PP7bf7iG7PjqE/view?usp=sharing)
+
 ### Ссылки на репозитории двух реализованных приложений:
 
 [scan_service](https://github.com/kade-ddnkv/ScanService_ForKasperskyInternship)
